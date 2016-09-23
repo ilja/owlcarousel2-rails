@@ -6,8 +6,8 @@ require 'owlcarousel2/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "owlcarousel2-rails"
   spec.version       = OwlCarousel2::Rails::VERSION
-  spec.authors       = ["Ilja Krijger"]
-  spec.email         = ["ilja@quittheprogram.org"]
+  spec.authors       = ["Ilja Krijger", "Gabriel Medina"]
+  spec.email         = ["ilja@quittheprogram.org", "gmedina.santos@gmail.com"]
 
   spec.summary       = %q{OwlCarousel2 packaged for the rails assets pipeline.}
   spec.description   = %q{Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.}
