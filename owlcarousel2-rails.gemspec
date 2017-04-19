@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{OwlCarousel2 packaged for the rails assets pipeline.}
   spec.description   = %q{Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.}
-  spec.homepage      = "https://github.com/ilja/owlcarousel2-rails."
+  spec.homepage      = "https://github.com/ilja/owlcarousel2-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
